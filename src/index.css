@@ -7,6 +7,22 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-h1 {
- color: red;
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blueviolet;
+  width: 100%;
+  height: 100vh;
+}
+h1{
+  color: yellow;
+  /* padding-bottom: 300px; */
+}
+form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 400px;
 }
