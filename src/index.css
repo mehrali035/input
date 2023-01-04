@@ -26,3 +26,6 @@ form{
   flex-direction: column;
   margin-bottom: 400px;
 }
+p{
+  color: yellow;
+}
